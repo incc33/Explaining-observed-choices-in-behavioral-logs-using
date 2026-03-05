@@ -1,0 +1,2 @@
+# Explaining-observed-choices-in-behavioral-logs-using
+I participated in a competition where we analyzed behavioral log data to understand how people make decisions. Using computational models, we explored how observed choices can be explained by underlying decision-making processes. The project focused on defining latent decision states from behavioral data and interpreting patterns in users’ choices.
